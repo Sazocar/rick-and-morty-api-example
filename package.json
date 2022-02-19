@@ -1,4 +1,5 @@
 {
+  "homepage": "https://sazocar.github.io/rick-and-morty-api-example",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
