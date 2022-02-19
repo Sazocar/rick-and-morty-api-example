@@ -32,7 +32,7 @@ window.fetch(`${baseUrl}`)
             nameAndStatus.appendChild(status);
 
             const card = document.createElement("div");
-            card.className = "md:flex bg-gray-600 rounded-lg p-6 hover:bg-gray-400";
+            card.className = "md:flex bg-gray-800 rounded-lg p-6 hover:bg-gray-600";
             card.appendChild(image);
             card.appendChild(nameAndStatus);
 
